@@ -21,7 +21,7 @@ Relevant assets can be found in [`./assets`](./assets).
 
 Requirements:
 
-* Node.js (recommended v. >=9)
+* Node.js (recommended v. <=14)
 * NPM v. >=5
 
 ```bash
